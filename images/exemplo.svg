@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
-  <rect width="400" height="200" fill="#0a1f44"/>
-  <rect x="16" y="16" width="120" height="40" rx="6" fill="#ffffff" opacity="0.08"/>
-  <circle cx="80" cy="100" r="54" fill="none" stroke="#2f80ed" stroke-width="10" opacity="0.9"/>
-  <circle cx="80" cy="100" r="20" fill="#2f80ed"/>
-  <text x="180" y="96" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">CDN 1CRI</text>
-  <text x="180" y="126" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#9db3d8">Exemplo de imagem servida pelo CDN</text>
-</svg>
